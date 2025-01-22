@@ -27,7 +27,7 @@ Columns of the dataset:
 
 ![image](https://github.com/user-attachments/assets/c6843118-f816-4f4b-82af-39360a5c7786)
 
-<img src="[URL_of_image](https://github.com/user-attachments/assets/c6843118-f816-4f4b-82af-39360a5c7786)" width="400" height="300" />
+<image src="[URL_of_image](https://github.com/user-attachments/assets/c6843118-f816-4f4b-82af-39360a5c7786)" width="400" height="300" />
 
 
 
