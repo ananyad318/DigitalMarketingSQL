@@ -31,6 +31,10 @@ Columns of the dataset:
   <image src="https://github.com/user-attachments/assets/c6843118-f816-4f4b-82af-39360a5c7786" width="450" height="200" />
 </div>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c6843118-f816-4f4b-82af-39360a5c7786" width="450" height="200" />
+</p>
+
 
 
 #### Findings:
