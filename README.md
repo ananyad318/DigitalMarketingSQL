@@ -25,7 +25,7 @@ Columns of the dataset:
 
 ### 1) Engagement Metrics: Campaign Name (impressions, clicks, and leads)
 
-![image](https://github.com/user-attachments/assets/c6843118-f816-4f4b-82af-39360a5c7786):height="200px" width="400px"}
+![image](https://github.com/user-attachments/assets/c6843118-f816-4f4b-82af-39360a5c7786){:height="200px" width="400px"}
 
 
 #### Findings:
