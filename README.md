@@ -1,5 +1,7 @@
 # **Analytics on Digital Marketing Metrices**
 
+![image](https://github.com/user-attachments/assets/9cd27b33-8fd0-4292-8411-10d270ac2585)
+
 ## Introduction
 
 ### The data provides insights into the effectiveness and profitability of various marketing campaigns across different categories and dates. 
@@ -21,9 +23,25 @@ Columns of the dataset:
 
 ## **General Insights**
 
-### 1) Most frequent category of campaign
+### 1) Engagement Metrics: Campaign Name (impressions, clicks, and leads)
 
-![image](https://github.com/user-attachments/assets/2a4342c8-4378-4783-898b-aee267969fac)
+![image](https://github.com/user-attachments/assets/c6843118-f816-4f4b-82af-39360a5c7786)
+
+#### Findings:
+- Highest Impressions were generated through campaign name banner_partner, highest clicks through instagram_tier2 and highest leads through instagram_tier2.
+
+### 2) Financial Metrics: Campaign Name (orders, revenue, and cost price)
+
+![image](https://github.com/user-attachments/assets/84583c1c-4357-4e52-b542-cfaa0ca273a3)
+
+#### Findings:
+- Maximum amount spent was on banner_partner, youtube_blogger brought in the highest orders and revenue.
+
+
+
+
+
+
 
 #### Maximum campaigns are launched through Social category.
 
