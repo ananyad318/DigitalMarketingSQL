@@ -35,20 +35,13 @@ Columns of the dataset:
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/6e34e1cd-8c6f-4cfa-917a-8627aa84b3c9" width="450" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/e8da8bb7-b19d-42a9-b256-d2b0f5451eaf" width="400" height="220"></td>
+    <td><img src="https://github.com/user-attachments/assets/e8da8bb7-b19d-42a9-b256-d2b0f5451eaf" width="450" height="200"></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><img src="https://github.com/user-attachments/assets/ae227cd2-5bde-4ec6-bb77-e3f650b2dab0" width="450" height="200"></td>
   </tr>
 </table>
   
-
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ebce2135-a1db-4ba8-958d-5603427b6a78"  />
-</p>
-
 #### Findings:
 - Equal number of campaigns were lauched across all names, however social category leads among the categories.
 - Top 5 Impressions: banner_partner (media), instagram_tier2 (social), instagram_tier1 (social), facebOOK_tier2 (social), google_wide (search).
