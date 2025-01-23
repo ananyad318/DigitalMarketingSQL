@@ -48,21 +48,9 @@ Columns of the dataset:
 
 ### 2) Financial Metrics: Campaign Name (orders, revenue, and cost price)
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/8f126885-7ff6-40a7-bc41-99c0edea19e4" width="500" height="250"></td>
-    <td><img src="https://github.com/user-attachments/assets/4bff13b8-2ffa-4269-ab42-caf81af15098" width="300" height="150"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/6e34e1cd-8c6f-4cfa-917a-8627aa84b3c9" width="450" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/e8da8bb7-b19d-42a9-b256-d2b0f5451eaf" width="450" height="200"></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://github.com/user-attachments/assets/ae227cd2-5bde-4ec6-bb77-e3f650b2dab0" width="450" height="200"></td>
-  </tr>
-</table>
-
-![image](https://github.com/user-attachments/assets/1fbc7b6a-36ab-4059-8a4a-16c62f2b3f09)  ![image](https://github.com/user-attachments/assets/80fdc66d-7505-4e8f-be4d-bf224d6639df)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1fbc7b6a-36ab-4059-8a4a-16c62f2b3f09" alt="Sample Image" style="max-width: 100%; height: auto; display: block; margin: auto; border: 1px solid #ccc; border-radius: 4px;">
+</p>
 
 
 
