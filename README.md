@@ -1,6 +1,8 @@
 # **Analytics on Digital Marketing Metrices**
 
-![image](https://github.com/user-attachments/assets/9cd27b33-8fd0-4292-8411-10d270ac2585)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9cd27b33-8fd0-4292-8411-10d270ac2585" width="450" height="200" />
+</p>
 
 ## Introduction
 
