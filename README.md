@@ -34,7 +34,7 @@ Columns of the dataset:
     <td><img src="https://github.com/user-attachments/assets/4bff13b8-2ffa-4269-ab42-caf81af15098" width="300" height="150"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/6e34e1cd-8c6f-4cfa-917a-8627aa84b3c9" width="500" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/6e34e1cd-8c6f-4cfa-917a-8627aa84b3c9" width="400" height="150"></td>
     <td><img src="https://github.com/user-attachments/assets/e8da8bb7-b19d-42a9-b256-d2b0f5451eaf" width="500" height="250"></td>
   </tr>
   <tr>
