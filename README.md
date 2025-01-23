@@ -34,24 +34,15 @@ Columns of the dataset:
     <td><img src="https://github.com/user-attachments/assets/4bff13b8-2ffa-4269-ab42-caf81af15098" width="300" height="150"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ca66ee8d-e6b2-4ee5-8fe6-c54c5ffd4546" width="450" height="200"></td>
-    <td><img src="image4_url" alt="Image 4" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/6e34e1cd-8c6f-4cfa-917a-8627aa84b3c9" width="500" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/e8da8bb7-b19d-42a9-b256-d2b0f5451eaf" width="500" height="250"></td>
   </tr>
   <tr>
-    <td><img src="image5_url" alt="Image 5" width="200"></td>
-    <td><img src="image6_url" alt="Image 6" width="200"></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="image7_url" alt="Image 7" width="200"></td>
+    <td colspan="2" align="center"><img src="https://github.com/user-attachments/assets/ae227cd2-5bde-4ec6-bb77-e3f650b2dab0" width="500" height="250"></td>
   </tr>
 </table>
+  
 
-
-
-
-
-
-![image]()
 
 
 <p align="center">
