@@ -28,14 +28,41 @@ Columns of the dataset:
 
 ### 1) Engagement Metrics: Campaign Name & Category (impressions, clicks, and leads)
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8f126885-7ff6-40a7-bc41-99c0edea19e4" width="450" height="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/4bff13b8-2ffa-4269-ab42-caf81af15098" width="450" height="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ca66ee8d-e6b2-4ee5-8fe6-c54c5ffd4546" width="450" height="200"></td>
+    <td><img src="image4_url" alt="Image 4" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="image5_url" alt="Image 5" width="200"></td>
+    <td><img src="image6_url" alt="Image 6" width="200"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="image7_url" alt="Image 7" width="200"></td>
+  </tr>
+</table>
+
+
+
+
+
+
+![image]()
+
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c6843118-f816-4f4b-82af-39360a5c7786" width="450" height="200" />
+  <img src="https://github.com/user-attachments/assets/ebce2135-a1db-4ba8-958d-5603427b6a78"  />
 </p>
 
-
-
 #### Findings:
-- Highest Impressions were generated through campaign name banner_partner, highest clicks through instagram_tier2 and highest leads through instagram_tier2.
+- Equal number of campaigns were lauched across all names, however social category leads among the categories.
+- Top 5 Impressions: banner_partner (media), instagram_tier2 (social), instagram_tier1 (social), facebOOK_tier2 (social), google_wide (search).
+- Top 5 Clicks: instagram_tier2 (social), youtube_blogger (influencer), banner_partner (media), facebOOK_tier2 (social), instagram_blogger (influencer).
+- Top 5 Lead: instagram_tier2 (social), banner_partner (
 
 ### 2) Financial Metrics: Campaign Name (orders, revenue, and cost price)
 
