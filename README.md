@@ -35,10 +35,10 @@ Columns of the dataset:
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/6e34e1cd-8c6f-4cfa-917a-8627aa84b3c9" width="450" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/e8da8bb7-b19d-42a9-b256-d2b0f5451eaf" width="500" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/e8da8bb7-b19d-42a9-b256-d2b0f5451eaf" width="450" height="200"></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github.com/user-attachments/assets/ae227cd2-5bde-4ec6-bb77-e3f650b2dab0" width="500" height="250"></td>
+    <td colspan="2" align="center"><img src="https://github.com/user-attachments/assets/ae227cd2-5bde-4ec6-bb77-e3f650b2dab0" width="450" height="200"></td>
   </tr>
 </table>
   
