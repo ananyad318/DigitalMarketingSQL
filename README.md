@@ -30,8 +30,8 @@ Columns of the dataset:
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/8f126885-7ff6-40a7-bc41-99c0edea19e4" width="450" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/4bff13b8-2ffa-4269-ab42-caf81af15098" width="450" height="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/8f126885-7ff6-40a7-bc41-99c0edea19e4" width="500" height="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/4bff13b8-2ffa-4269-ab42-caf81af15098" width="300" height="150"></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/ca66ee8d-e6b2-4ee5-8fe6-c54c5ffd4546" width="450" height="200"></td>
