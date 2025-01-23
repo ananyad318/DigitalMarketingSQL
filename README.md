@@ -1,7 +1,8 @@
 # **Analytics on Digital Marketing Metrices**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9cd27b33-8fd0-4292-8411-10d270ac2585" width="450" height="200" />
+  <img src="https://github.com/user-attachments/assets/9cd27b33-8fd0-4292-8411-10d270ac2585" width="450" height="200" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/d35b24ec-aec5-4f14-8c30-60c28a66191b" width="450" height="200" style="margin-left: 10px;">
 </p>
 
 ## Introduction
@@ -25,13 +26,7 @@ Columns of the dataset:
 
 ## **General Insights**
 
-### 1) Engagement Metrics: Campaign Name (impressions, clicks, and leads)
-
-![image](https://github.com/user-attachments/assets/c6843118-f816-4f4b-82af-39360a5c7786)
-
-<div style="text-align: center;">
-  <image src="https://github.com/user-attachments/assets/c6843118-f816-4f4b-82af-39360a5c7786" width="450" height="200" />
-</div>
+### 1) Engagement Metrics: Campaign Name & Category (impressions, clicks, and leads)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c6843118-f816-4f4b-82af-39360a5c7786" width="450" height="200" />
@@ -44,7 +39,9 @@ Columns of the dataset:
 
 ### 2) Financial Metrics: Campaign Name (orders, revenue, and cost price)
 
-![image](https://github.com/user-attachments/assets/84583c1c-4357-4e52-b542-cfaa0ca273a3)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/84583c1c-4357-4e52-b542-cfaa0ca273a3" width="450" height="200" />
+</p>
 
 #### Findings:
 - Maximum amount spent was on banner_partner, youtube_blogger brought in the highest orders and revenue.
