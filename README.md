@@ -28,6 +28,9 @@ Columns of the dataset:
 
 ### 1) Engagement Metrics: Campaign Name & Category (impressions, clicks, and leads)
 
+#### a) Count of Campaigns
+
+
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/8f126885-7ff6-40a7-bc41-99c0edea19e4" width="500" height="250"></td>
