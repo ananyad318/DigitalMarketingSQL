@@ -42,11 +42,9 @@ Columns of the dataset:
   </tr>
 </table>
   
-#### Findings:
+#### **Findings:**
 - Equal number of campaigns were lauched across all names, however social category leads among the categories.
-- Top 5 Impressions: banner_partner (media), instagram_tier2 (social), instagram_tier1 (social), facebOOK_tier2 (social), google_wide (search).
-- Top 5 Clicks: instagram_tier2 (social), youtube_blogger (influencer), banner_partner (media), facebOOK_tier2 (social), instagram_blogger (influencer).
-- Top 5 Lead: instagram_tier2 (social), banner_partner (
+- Overall Social has performed well among all categories.
 
 ### 2) Financial Metrics: Campaign Name (orders, revenue, and cost price)
 
